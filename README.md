@@ -1,4 +1,4 @@
 angular-quickstart
 ==================
 
-For learning purposes
+For learning purposes.
